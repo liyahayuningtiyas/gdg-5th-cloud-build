@@ -10,13 +10,13 @@
       "name": "雞肉飯",
       "description": "鮮嫩雞絲、油蔥香氣，再搭配一份醃蘿蔔。",
       "category": "主食",
-      "price": 75
+      "price": 100
     },
     {
       "name": "億哥牛肉麵",
       "description": "紅燒湯頭、軟嫩牛肉與吸滿湯汁的麵條。",
       "category": "主食",
-      "price": 200
+      "price": 250
     },
     {
       "name": "燙青菜",
